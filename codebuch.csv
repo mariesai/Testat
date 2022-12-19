@@ -1,0 +1,26 @@
+Codebuch,
+,
+Edgelist,
+,
+relation,
+Leiter,1
+Mitlgied,2
+Freunde ,3
+Kollegen,4
+,
+Notelist,
+,
+sector,
+Militar,1
+Adel,2
+Politik,3
+Polizei,4
+Wirtschaft,5
+Jura,6
+Medizin,7
+Astrologie,8
+Kunst,9
+,
+type,
+Akteur,1
+Organisation,2

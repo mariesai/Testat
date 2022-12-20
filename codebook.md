@@ -47,6 +47,5 @@ numerische ID
 
 **type**  
 1 = Akteur
-
 2 = Organisation
 

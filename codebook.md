@@ -7,9 +7,18 @@ erstellt von Marie Sailer (ms594u@hdm-stuttgart.de)
 - Nodes.csv (Nodelist)
 - Codebuch.md (Codierung der Datensätze)
 
-Das Netzwerk ist ein *gerichtetes one-mode Akteursnetzwerk*. Es wurden zwei getrennte Fragen erhoben:
+Das Netzwerk ist ein *gerichtetes two-mode Netzwerk*. 
 
 # EDGE-Attribute
+
+**id**  
+(eindeutige Codierung des Knoten)   
+
+**from**
+initiierender Knoten
+
+**to**
+erhaltender Knoten
 
 **relation**  
 1 = Leiter    
@@ -18,6 +27,12 @@ Das Netzwerk ist ein *gerichtetes one-mode Akteursnetzwerk*. Es wurden zwei getr
 4 = Kollegen
 
 # NODE-Attribute  
+
+**id**  
+Identische ID wie aus der edgelist zur Identifikation der Knoten. 
+
+**name**
+numerische ID
 
 **sector**  
 1 = Militär
